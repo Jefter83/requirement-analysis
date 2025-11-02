@@ -44,14 +44,14 @@ Examples: User authentication, property search, booking system, user registratio
 
 # Key Functional Requirements:
 
-# Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
-# User Registration: New users should be able to create an account with personal details and login credentials.
-# Property Listings: Display properties with essential details and images.
-# Booking System: Users should be able to book properties, view booking details, and manage their bookings.
-# User Authentication: Secure login and registration process for users.
-# Non-functional Requirements 
-# Definition: Describe how the system should perform.
-# Examples: Performance, security, scalability, usability, reliability.
+ Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+ User Registration: New users should be able to create an account with personal details and login credentials.
+ Property Listings: Display properties with essential details and images.
+ Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+ User Authentication: Secure login and registration process for users.
+ Non-functional Requirements 
+ Definition: Describe how the system should perform.
+ Examples: Performance, security, scalability, usability, reliability.
 
 ## Key Non-functional Requirements:
 
